@@ -10,5 +10,6 @@ Please cite our paper if you find the work useful:
     title={PolypSeg+: a Lightweight Context-aware Network for Real-time Polyp Segmentation},
     author={Huisi Wu, Zebin Zhao, Jiafu Zhong, Wei Wang, Zhenkun Wen and Jing Qin},
     journal={IEEE Transactions on Cybernetics},
-    year={2022}
+    year={2022},
+    publisher={IEEE}
     }
