@@ -1,5 +1,6 @@
 # PolypSeg+: a Lightweight Context-aware Network for Real-time Polyp Segmentation (TCYB-2022)
 ## Requirements
+- CUDA/CUDNN
 - torch>=1.4.0
 
 ## Citation
